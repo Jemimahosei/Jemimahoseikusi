@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on transforming ideas into impactful solutions.
 - 📫  reach me on linkedin at https://www.linkedin.com/in/jemimah-osei-kusi/
 - 😄 Pronouns: She/Her
+- Programming Languages: Python, Java, JavaScript,  HTML, CSS
+- Experience with: Figma, React, Material UI, GitHub, Git, Google Cloud Platform,Microsoft
+- Skills : Communication and Teamwork
 
 <!---
 Jemimahosei/Jemimahosei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
